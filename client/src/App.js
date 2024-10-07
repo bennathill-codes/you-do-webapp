@@ -3,7 +3,7 @@ import {Routes, Route} from 'react-router'
 import Landing from './pages/Landing/Landing'
 import Login from './pages/Auth/Login'
 import Register from './pages/Auth/Register'
-import List from './pages/Todo/List'
+import List from './pages/Todo/todoList'
 
 function App() {
   return (
